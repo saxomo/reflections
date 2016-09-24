@@ -1,0 +1,5 @@
+Git ha commands: 
+clone
+diff
+checkout
+status
