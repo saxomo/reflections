@@ -1,21 +1,27 @@
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+Q: What happens when you initialize a repository? Why do you need to do it?
 
-What happens when you initialize a repository? Why do you need to do it?
+A: In a directory of a project is created the hiden directory with hidden metadata. You initialise the project and program is told to track changes in directory, staging area and repository localy and remotly.
 
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+A: Staging area is beetween step beefore saving files to repository. Allows user to prepare determined files to be saved and make finel control of possible isues of changed file.
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+Q: How can you use the staging area to make sure you have one commit per logical change?
 
-How do the diagrams help you visualize the branch structure?
+A: Staging area is usefull to see the status of changes and save individual changis in repository.
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
-AA
+A: Branches are usefull when you try different lines in project development that can be devided and not messwith working version of project.
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: Diagram can make visual picture of branches and thairs intersections and crossing points.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: Merging two branches results in a single branch with two diffreent histories, so no commit is lost.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: Automatic Fit's merging allows trackin history of both branches, but can leed to some  conflicts beetwin deefernt changes in project code.
