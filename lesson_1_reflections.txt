@@ -1,22 +1,22 @@
 Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
-A: Viewing a difference beetwin two files helps me concentating on probable reason for bugs and not have to review all the document.
+A: Viewing a difference beetwin two files helps me concentrating on probable reason for bugs and not have to review all the document.
 
 Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
-A: Tracking the history of a project can help to analise the progression ogf project and the useful steps in development.
+A: Tracking the history of a project can help to analyse the progression of project and the useful steps in development.
 
 Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
 
-A: Manually savings are usefull for determing the important changes in project, but can sometimes result in not sufficiant backups in a critical moments like cresh or blue screen.
+A: Manually savings are usefull for determining the important changes in project, but can sometimes result in not sufficient backups in a critical moments like crash or blue screen.
 
 Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
-A: Git allows saving of multiple files besause of important connection that differant files have in a exsicution of a project
+A: Git allows saving of multiple files because of important connection that differant files have in a execution of a project
 
 Q: How can you use the commands git log and git diff to view the history of files?
 
-A: Commands log and diff can show the progrssion of commits and the differencec beetwin commited files.
+A: Commands log and diff can show the progression of commits and the difference between committed files.
 
 Q: How might using version control make you more confident to make changes that could break something?
 
